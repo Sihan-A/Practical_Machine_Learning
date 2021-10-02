@@ -1,2 +1,2 @@
-# Practical_Data_Science
+# Practical Machine Learning
 https://c.d2l.ai/stanford-cs329p/
